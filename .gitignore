@@ -1,0 +1,4 @@
+node_modules/
+output/inventory.json
+.env
+.DS_Store
